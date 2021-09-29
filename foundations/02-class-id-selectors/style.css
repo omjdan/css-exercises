@@ -1,0 +1,18 @@
+p {
+    background: linear-gradient(rgb(223, 68, 68), pink);
+    font-family: verdana, sans-serif;
+}
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+
+
+#n4{
+    background: rgb(24, 240, 24);
+    font-size: 24px;
+    font-style: bold;
+}
